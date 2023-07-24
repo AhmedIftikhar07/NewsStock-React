@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+            "id": "espn-cric-info",
+            "name": "ESPN Cric Info"
+            },
+            "author": "Firdose Moonda",
+            "title": "NZC not open to negotiating 2024 SA Test dates - ESPNcricinfo",
+            "description": "\"We've collaborated and agreed dates with CSA, who have confirmed the tour, acknowledged the arrangements and have been in receipt of the schedule for several weeks,\" NZC says",
+            "url": "https://www.espncricinfo.com/story/nz-board-not-open-to-negotiating-2024-south-africa-test-dates-1388483",
+            "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/340100/340186.jpg",
+            "publishedAt": "2023-07-20T07:19:30Z",
+            "content": "News\"We've collaborated and agreed dates with CSA, who have confirmed the tour, acknowledged the arrangements and have been in receipt of the schedule for several weeks,\" NZC says\r\nFirdose Moonda is … [+64 chars]"
+            },
+            {
+            "source": {
+            "id": null,
+            "name": "YouTube"
+            },
+            "author": null,
+            "title": "All of Stuart Broad's 47 Test wickets in Australia | Men's Ashes - cricket.com.au",
+            "description": "Stuart Broad reached his 600th Test wicket in the fourth Ashes Test at Old Trafford and here you can watc all of those that have come in AustraliaStuart Broa...",
+            "url": "https://www.youtube.com/watch?v=MICT5NEPFZo",
+            "urlToImage": "https://i.ytimg.com/vi/MICT5NEPFZo/maxresdefault.jpg",
+            "publishedAt": "2023-07-20T07:11:00Z",
+            "content": null
+            },
+            {
+            "source": {
+            "id": null,
+            "name": "YouTube"
+            },
+            "author": null,
+            "title": "Fans in Awe of Babar Azam’s Spectacular Left-Handed Catch",
+            "description": "Pakistan has taken the driving seat in the ongoing first Test match against Sri Lanka at Galle, as the batting and bowling units displayed a phenomenal show.",
+            "url": "https://propakistani.pk/2023/07/19/fans-in-awe-of-babar-azams-spectacular-left-handed-catch-video/#google_vignette",
+            "urlToImage": "https://propakistani.pk/wp-content/uploads/2023/07/Babar-Azam-7.jpg",
+            "publishedAt": "2023-07-20T07:00:20Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            },
+            {
+            "source": {
+            "id": null,
+            "name": "Bar & Bench - Indian Legal News"
+            },
+            "author": "Prashant Jha",
+            "title": "Challenge to direct entry of Bajrang Punia and Vinesh Phogat into Asian Games: Delhi High Court seeks WFI response - Bar & Bench - Indian Legal News",
+            "description": "Wrestlers Antim Panghal and Sujeet Kalkal have approached the Delhi High Court challenging the direct entry of wrestlers Bajrang Punia and Vinesh Phogat into th",
+            "url": "https://www.barandbench.com/news/breaking-asian-games-direct-entries-wrestlers-bajrang-punia-vinesh-phogat-challenged-before-delhi-high-court",
+            "urlToImage": "https://gumlet.assettype.com/barandbench%2F2023-07%2Fd861b70a-1907-4600-8245-f3d1d15bb3c5%2F19.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+            "publishedAt": "2023-07-20T06:25:08Z",
+            "content": "Panghal and Kalkal have challenged Punia and Phogat being exempted from participating in trials for the Asian Games.\r\nThe event will be held between September 23 and October 8 at Hangzhou, China. Ori… [+115 chars]"
+            }
+    ]
+}
